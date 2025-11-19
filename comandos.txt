@@ -1,0 +1,5 @@
+python 01_cargar_datos.py
+python 02_limpiar_datos.py
+python 03_preparar.py
+python 04_entrenar.py
+python 05_probar.py
